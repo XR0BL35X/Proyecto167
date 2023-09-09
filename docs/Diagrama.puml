@@ -1,0 +1,8 @@
+class mascota {
+ + EstablecerNombre()
+ }
+
+ class Entrenador{
+    + AsignarNombre()
+ }
+ 
